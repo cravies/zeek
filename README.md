@@ -1,2 +1,2 @@
 # zeek
-Learning Zeekscript (config language for Zeek, open source network security monitor 
+Learning Zeek, the language which powers the open source network security monitor of the same name.
